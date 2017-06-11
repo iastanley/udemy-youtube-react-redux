@@ -6,3 +6,11 @@
 .search-bar input {
   width: 70%;
 }
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background: #eee;
+}
