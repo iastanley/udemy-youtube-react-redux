@@ -16,7 +16,7 @@ class App extends Component {
       selectedVideo: null
     }
     //to show the user some videos on first load
-    this.videoSearch('surfboards')
+    this.videoSearch('surfboards');
   }
 
   videoSearch(term) {
