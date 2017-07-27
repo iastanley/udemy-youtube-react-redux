@@ -8,6 +8,7 @@ import VideoDetail from './components/video_detail';
 
 const API_KEY = process.env.API_KEY;
 
+// consider moving App component to separate file
 class App extends Component {
   constructor(props) {
     super(props);

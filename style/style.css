@@ -14,3 +14,7 @@
 .list-group-item:hover {
   background: #eee;
 }
+
+.details h3 {
+  text-align: center;
+}
